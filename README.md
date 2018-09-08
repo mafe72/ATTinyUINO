@@ -3,7 +3,7 @@
 
 For more details on design, assembly and programming, visit the documentation: [ATTinyUINO-docs](https://github.com/mafe72/ATTinyUINO/ATTinyUINO-docs)
 
-This is open hardware and was published in [CC-BY-SA-4.0](https://github.com/mafe72/ATTinyUINO/blob/master/LICENSE.md/LICENSE.md)
+This is open hardware and was published in [CC-BY-SA-4.0](https://github.com/mafe72/ATTinyUINO/blob/master/LICENSE.md)
 
 
 # Characteristics of ATTinyUINO DIY
@@ -28,8 +28,8 @@ You should report bugs or suggestions via [Issues area](https://github.com/mafe7
 Make sure you meet the following criteria when creating / submitting your issue:
 
 - Use a clear and descriptive title to identify the problem / suggestion.
-- Describe the exact steps to reproduce the problem in as much detail as possible
-- Mention where this problem was found / what your suggestion will affect
+- Describe the exact steps to reproduce the problem in as much detail as possible.
+- Mention where this problem was found / what your suggestion will affect.
 
 ## Contribution to hardware improvements
 
@@ -40,6 +40,6 @@ Before you contribute, first get approval from the repository and community main
  
 Once you get approved, you will need to do the following steps (these instructions assume that you are a GitHub user).
 
-- 1: fork this repository
-- 2: Make changes, commit and push to the fork
-- 3: Submit your Pull Request
+- 1: fork this repository.
+- 2: Make changes, commit and push to the fork.
+- 3: Submit your Pull Request.
