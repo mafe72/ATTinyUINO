@@ -1,16 +1,16 @@
 # Official ATTinyUINO DIY Board Repository
 
 
-For more details on design, assembly and programming, visit the documentation: [ATTinyUINO-docs] (https://github.com/mafe72/ATTinyUINO
+For more details on design, assembly and programming, visit the documentation: [ATTinyUINO-docs](https://github.com/mafe72/ATTinyUINO
 /ATTinyUINO-docs)
 
-This is open hardware and was published in [CC-BY-SA-4.0] (https://github.com/mafe72/ATTinyUINO/blob/master/LICENSE.md/LICENSE.md)
+This is open hardware and was published in [CC-BY-SA-4.0](https://github.com/mafe72/ATTinyUINO/blob/master/LICENSE.md/LICENSE.md)
 
 
 # Characteristics of ATTinyUINO DIY
 
 - Single Face Plate - To make it easier to make homemade
-- Components in TH - For manual mounting (SMD is also availible)
+- Components in TH - For manual mounting (SMD is also available)
 - ATtiny85-20PU Micro-controller - Arduino Compatibility
 - 5 pin I / O - All micro-controller pins will be available
 - POWER LED - LED for power indication
@@ -24,7 +24,7 @@ The PCB design was originally developed in Kicad.
 
 ## Suggestions and Bugs in Hardware
 
-You should report bugs or suggestions via [Issues area] (https://github.com/mafe72/ATTinyUINO/issues) here in github.
+You should report bugs or suggestions via [Issues area](https://github.com/mafe72/ATTinyUINO/issues) here in github.
 
 Make sure you meet the following criteria when creating / submitting your issue:
 
