@@ -1,8 +1,7 @@
 # Official ATTinyUINO DIY Board Repository
 
 
-For more details on design, assembly and programming, visit the documentation: [ATTinyUINO-docs](https://github.com/mafe72/ATTinyUINO
-/ATTinyUINO-docs)
+For more details on design, assembly and programming, visit the documentation: [ATTinyUINO-docs](https://github.com/mafe72/ATTinyUINO/ATTinyUINO-docs)
 
 This is open hardware and was published in [CC-BY-SA-4.0](https://github.com/mafe72/ATTinyUINO/blob/master/LICENSE.md/LICENSE.md)
 
