@@ -1,10 +1,13 @@
 # Official ATTinyUINO DIY Board Repository
 
-
 For more details on design, assembly and programming, visit the documentation: [ATTinyUINO-docs](https://github.com/mafe72/ATTinyUINO/ATTinyUINO-docs)
 
-This is open hardware and was published in [CC-BY-SA-4.0](https://github.com/mafe72/ATTinyUINO/blob/master/LICENSE.md)
+License
+-------
+<div align="center"><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Attribution-ShareAlike" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br /></div>
 
+This project is open hardware licensed under the Attribution-ShareAlike 4.0 (CC BY-SA 4.0) license. The full legal text of the license may be found in the LICENSE.md file in this repository. For more information about this license, please visit 
+the Creative Commons Foundation (https://creativecommons.org/licenses/by-sa/4.0/).
 
 # Characteristics of ATTinyUINO DIY
 
