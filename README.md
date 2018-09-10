@@ -9,7 +9,8 @@ License
 This project is open hardware licensed under the Attribution-ShareAlike 4.0 (CC BY-SA 4.0) license. The full legal text of the license may be found in the LICENSE.md file in this repository. For more information about this license, please visit 
 the Creative Commons Foundation (https://creativecommons.org/licenses/by-sa/4.0/).
 
-# Characteristics of ATTinyUINO DIY
+Characteristics of ATTinyUINO DIY
+-------
 
 - Single Face Plate - To make it easier to make homemade
 - Components in TH - For manual mounting (SMD is also available)
@@ -18,7 +19,19 @@ the Creative Commons Foundation (https://creativecommons.org/licenses/by-sa/4.0/
 - POWER LED - LED for power indication
 - General purpose LED connected to I/O pin 1
 
-# Project
+----------
+ATTinyUINO TH Front Side:
+![ATTinyUINO TH Front Side](pictures/TH_front_bw.png)
+----------
+ATTinyUINO SMD Front Side:
+![ATTinyUINO SMD Front Side](pictures/smd_front_bw.png)
+----------
+ATTinyUINO SMD Back Side:
+![ATTinyUINO SMD Back Side](pictures/smd_back_bw.png)
+----------
+
+Project
+-------
 
 The PCB design was originally developed in Kicad.
 
