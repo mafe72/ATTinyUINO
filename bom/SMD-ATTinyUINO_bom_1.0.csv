@@ -1,0 +1,28 @@
+Component,Description,,References,Value,,Quantity Per PCB,Datasheet,,MPN
+1,"0.1 µF 50V Ceramic Capacitor X7R 0805 (2012 Metric) 0.079"" L x 0.049"" W (2.00mm x 1.25mm)",,C2,0.1uF,,1,http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_18.pdf,,CC0805KRX7R9BB104
+2,10 µF Molded Tantalum Capacitors 10V 1206 (3216 Metric) 3 Ohm,,C1,10uF,,1,http://datasheets.avx.com/TAJ.pdf,,TAJA106K010RNJ
+3,Diode Standard 75V 150mA Surface Mount SOD-323F,,D2,1N4148WS,,1,https://www.fairchildsemi.com/datasheets/1N/1N4148WS.pdf,,1N4148WS
+4,Green 571nm LED Indication - Discrete 2V 0805 (2012 Metric),,D1,LED_GRN,,1,http://optoelectronics.liteon.com/upload/download/DS22-2000-118/LTST-C171KGKT.pdf,,LTST-C171KGKT
+5,Yellow-Green 573nm LED Indication - Discrete 2V 0805 (2012 Metric),,D3,LED_YELL,,1,https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/17-215SYGC-S530-XX-TR8.pdf,,17-215SYGC/S530-E2/TR8
+6,Zener Diode 3.6V 500mW ±5% Surface Mount SOD-80 MiniMELF,,D4 D5,TZMC3V6,,2,http://www.vishay.com/docs/84122/tzm.pdf,,TZMC3V6-GS08
+7,"Connector Header Through Hole 5 position 0.100"" (2.54mm)",,J1 J2,Conn_01x05,,2,https://katalog.we-online.de/em/datasheet/6130xx11121.pdf,,61300511121
+8,"USB - micro AB USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle",,J3,USB_OTG,,1,https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10104111.pdf,,10104111-0001LF
+9,"1 kOhms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film",,R1 R2,1K,,2,http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf,,RC0805JR-071KL
+10,"1.5 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film",,R4,1K5,,1,http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf,,RC0805FR-071K5L
+11,"68 Ohms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film",,R3 R5,68R,,2,http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf,,RC0805JR-0768RL
+12,Tactile Switch SPST-NO Top Actuated Surface Mount,,SW1,RESET,,1,https://www.e-switch.com/system/asset/product_line/data_sheet/218/TL3365.pdf,,TL3365AF180QG
+13,AVR AVR® ATtiny Microcontroller IC 8-Bit 20MHz 8KB (4K x 16) FLASH 8-SOIC,,U2,ATtiny85-20SU,,1,http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf,,ATTINY85-20SUR
+14,Linear Voltage Regulator IC Positive Fixed 1 Output 5V 100mA SOT-89-3,,U1,L78L05_SOT89,,1,http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf,,L78L05ABUTR
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
