@@ -21,7 +21,7 @@ Characteristics of ATTinyUINO DIY
 
 ----------
 ATTinyUINO TH Front Side:
-![ATTinyUINO TH Front Side](pictures/TH_front_bw.png)
+![ATTinyUINO TH Front Side](pictures/th_front_bw.png)
 ----------
 ATTinyUINO SMD Front Side:
 ![ATTinyUINO SMD Front Side](pictures/smd_front_bw.png)
