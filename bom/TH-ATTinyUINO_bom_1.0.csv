@@ -1,29 +1,16 @@
-Component,Description,References,Value,Quantity Per PCB,Datasheet,MPN
-1,CAP CER 0.1UF 50V X7R RADIAL,C2,0.1uF,1,https://content.kemet.com/datasheets/KEM_C1050_GOLDMAX_X7R.pdf,C322C104K5R5TA
-2,"10 µF 35V Aluminum Electrolytic Capacitors Radial, Can  2000 Hrs @ 85°C",C1,10uF,1,"https://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Electronic%20Components/ECA-xxM%20Series,TypeA.pdf",10 uF x 35 V
-3,Diode Standard 75V 150mA Through Hole DO-35,D2,1N4148,1,https://www.fairchildsemi.com/datasheets/1N/1N4148WS.pdf,1N4148 TR
-4,Zener Diode 3.6V 500mW ±5% Through Hole DO-35,D4 D5,BZX55C3V6,2,http://www.vishay.com/docs/85604/bzx55-se.pdf,BZX55C3V6-TAP
-5,Green 569nm LED Indication - Discrete 2.4V Radial,D1,LED_GRN,1,http://www.vishay.com/docs/83006/tlhg440.pdf,TLHG4400-AS12
-6,Yellow 588nm LED Indication - Discrete 2.4V Radial,D3,LED_YELL,1,http://www.vishay.com/docs/83006/tlhg440.pdf,TLHY4400-AS12Z
-7,"Connector Header Through Hole 5 position 0.100"" (2.54mm)",J1 J2,Conn_01x05,2,https://katalog.we-online.de/em/datasheet/6130xx11121.pdf,61300511121
-8,"USB - B USB 2.0 Receptacle Connector 4 Position Through Hole, Right Angle",J3,USB_B,1,https://katalog.we-online.de/em/datasheet/61400416121.pdf,61400416121
-9,TC2030-IDC-NL 6-Pin No-Legs Tag-Connect Plug-of-NailsTM Cable with Ribbon Connector,P1,TC2030-IDC,1,http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf,TC2030-IDC
-10,"1 kOhms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film",R1 R2,1K,2,http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf,CFR-25JB-52-1K
-11,"1.5 kOhms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film",R4,1K5,1,http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf,CFR-25JB-52-1K5
-12,"68 Ohms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film",R3 R5,68R,2,http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf,CFR-25JB-52-68R
-13,Tactile Switch SPST-NO Top Actuated Through Hole,SW1,RESET,1,https://www.e-switch.com/system/asset/product_line/data_sheet/144/TL1105.pdf,TL1105AF160Q
-14,AVR AVR® ATtiny Microcontroller IC 8-Bit 20MHz 8KB (4K x 16) FLASH 8-PDIP,U2,ATTINY85-20PU,1,http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf,ATTINY85-20PU
-15,Linear Voltage Regulator IC Positive Fixed 1 Output 5V 100mA TO-92-3,U1,L78L05_SOT89,1,https://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf,L78L05ABZ-TR
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
+Component,Description,References,Value,Quantity Per PCB,MPN,Datasheet
+1,CAP CER 0.1UF 50V X7R RADIAL,C2,0.1uF,1,C322C104K5R5TA,https://content.kemet.com/datasheets/KEM_C1050_GOLDMAX_X7R.pdf
+2,"10 µF 35V Aluminum Electrolytic Capacitors Radial, Can  2000 Hrs @ 85°C",C1,10uF,1,10 uF x 35 V,"https://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Electronic%20Components/ECA-xxM%20Series,TypeA.pdf"
+3,Diode Standard 75V 150mA Through Hole DO-35,D2,1N4148,1,1N4148 TR,https://www.fairchildsemi.com/datasheets/1N/1N4148WS.pdf
+4,Zener Diode 3.6V 500mW ±5% Through Hole DO-35,D4 D5,BZX55C3V6,2,BZX55C3V6-TAP,http://www.vishay.com/docs/85604/bzx55-se.pdf
+5,Green 569nm LED Indication - Discrete 2.4V Radial,D1,LED_GRN,1,TLHG4400-AS12,http://www.vishay.com/docs/83006/tlhg440.pdf
+6,Yellow 588nm LED Indication - Discrete 2.4V Radial,D3,LED_YELL,1,TLHY4400-AS12Z,http://www.vishay.com/docs/83006/tlhg440.pdf
+7,"Connector Header Through Hole 5 position 0.100"" (2.54mm)",J1 J2,Conn_01x05,2,61300511121,https://katalog.we-online.de/em/datasheet/6130xx11121.pdf
+8,"USB - B USB 2.0 Receptacle Connector 4 Position Through Hole, Right Angle",J3,USB_B,1,61400416121,https://katalog.we-online.de/em/datasheet/61400416121.pdf
+9,TC2030-IDC-NL 6-Pin No-Legs Tag-Connect Plug-of-NailsTM Cable with Ribbon Connector,P1,TC2030-IDC,1,TC2030-IDC,http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf
+10,"1 kOhms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film",R1 R2,1K,2,CFR-25JB-52-1K,http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf
+11,"1.5 kOhms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film",R4,1K5,1,CFR-25JB-52-1K5,http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf
+12,"68 Ohms ±5% 0.25W, 1/4W Through Hole Resistor Axial  Carbon Film",R3 R5,68R,2,CFR-25JB-52-68R,http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/throughhole/Yageo_LR_CFR_2013.pdf
+13,Tactile Switch SPST-NO Top Actuated Through Hole,SW1,RESET,1,TL1105AF160Q,https://www.e-switch.com/system/asset/product_line/data_sheet/144/TL1105.pdf
+14,AVR AVR® ATtiny Microcontroller IC 8-Bit 20MHz 8KB (4K x 16) FLASH 8-PDIP,U2,ATTINY85-20PU,1,ATTINY85-20PU,http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf
+15,Linear Voltage Regulator IC Positive Fixed 1 Output 5V 100mA TO-92-3,U1,L78L05_SOT89,1,L78L05ABZ-TR,https://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf
