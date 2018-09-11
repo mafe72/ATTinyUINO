@@ -9,8 +9,8 @@ If you want to get in touch with the project administrators, please send an emai
 1. **ATTinyUINO**
 	* List of materials (BOM)
 	* Identifying components
-	* Mounting the TH board
-	* Mounting the SMD board
+	* Assembling the TH board version
+	* Assembling the SMD board version
 	* Pinout
 	* Burning the bootloader
   	* Drivers
