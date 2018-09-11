@@ -24,7 +24,7 @@ If you want to get in touch with the project administrators, please send an emai
 	- PWM
 	- I2C
 
-3. **Exemplos de projetos**
+3. **Project examples**
 
 - LED Blink
 - LED brightness control
