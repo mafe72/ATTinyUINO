@@ -59,3 +59,7 @@ Once you get approved, you will need to do the following steps (these instructio
 - 1: fork this repository.
 - 2: Make changes, commit and push to the fork.
 - 3: Submit your Pull Request.
+
+## If you have any questions please contact me
+
+info@attinyuino.com
