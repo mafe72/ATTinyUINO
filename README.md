@@ -56,7 +56,7 @@ Before you contribute, first get approval from the repository and community main
  
 Once you get approved, you will need to do the following steps (these instructions assume that you are a GitHub user).
 
-- 1: fork this repository.
+- 1: Fork this repository.
 - 2: Make changes, commit and push to the fork.
 - 3: Submit your Pull Request.
 
