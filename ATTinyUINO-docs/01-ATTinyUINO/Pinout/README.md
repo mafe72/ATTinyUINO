@@ -7,3 +7,7 @@
 ### ATTinyUINO SMD Pinout
 
 ![ATTinyUINO SMD Pinout](./images/SMD-ATTinyUINO-PINOUT.png)
+
+
+
+*The output pinout of the two versions are the same.
