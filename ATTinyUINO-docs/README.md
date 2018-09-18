@@ -11,7 +11,7 @@ If you want to get in touch with the project administrators, please send an emai
 	* Identifying components
 	* Assembling the TH board version
 	* Assembling the SMD board version
-	* Pinout
+	* [Pinout](https://github.com/mafe72/ATTinyUINO/tree/master/ATTinyUINO-docs/01-ATTinyUINO/Pinout)
 	* Burning the bootloader
   	* Drivers
 	* Arduino IDE Configuration
