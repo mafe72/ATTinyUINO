@@ -1,5 +1,7 @@
 # Official ATTinyUINO DIY Board Repository
 
+![GitHub issues](https://img.shields.io/github/issues-raw/mafe72/ATTinyUINO?logo=Github&style=for-the-badge)
+
 For more details on design, assembly and programming, visit the documentation: [ATTinyUINO-docs](https://github.com/mafe72/ATTinyUINO/tree/master/ATTinyUINO-docs)
 
 License
